@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Locador2</string>
+    <string name="register_text">Let\'s start with creating your account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="continue_text">Continue</string>
+    <string name="title_activity_locator_home">LocatorHomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_payement">Payement</string>
+    <string name="menu_edit_parking">Edit vehicle </string>
+    <string name="menu_history">History</string>
+    <string name="menu_rewards">Rewards</string>
+    <string name="menu_sign_out">Sign Out</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="permission_require">Location permission required</string>
+    <string name="locators_not_found">Locators not found!</string>
+    <string name="not_found_key">Not found locator with key</string>
+    <string name="welcome">Good afternoon :)</string>
+    <string name="choose_a_saved_place">Choose a saved place</string>
+    <string name="where_to">Where to?</string>
+    <string name="city_name_empty">City name is empty</string>
+    <string name="title_activity_request_locator">Map</string>
+    <string name="pay_by_cash">Pay by Cash</string>
+    <string name="confirm_parking">Confirm Parking</string>
+    <string name="confirm_pickup_spot">Confirm Pickup Spot</string>
+    <string name="address_demo">355 Eduardo Girão</string>
+    <string name="meet_locator_here">Meet locator here</string>
+    <string name="finding_your_client">Finding your client</string>
+    <string name="finding_your_parking">Finding your parking</string>
+    <string name="token_not_found">Token not found</string>
+    <string name="request_locator_failed">Failed to send request to locator</string>
+
+
+    </resources>

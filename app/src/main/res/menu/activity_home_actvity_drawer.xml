@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_payement"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:title="@string/menu_payement" />
+        <item
+            android:id="@+id/nav_edit_parking"
+            android:icon="@drawable/ic_edit_black_24dp"
+            android:title="@string/menu_edit_parking" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_history"
+                android:icon="@drawable/ic_history_black_24dp"
+                android:title="@string/menu_history" />
+            <item
+                android:id="@+id/nav_rewards"
+                android:icon="@drawable/ic_account_balance_wallet_black_24dp"
+                android:title="@string/menu_rewards" />
+            <item
+                android:id="@+id/nav_sign_out"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="@string/menu_sign_out" />
+        </menu>
+    </item>
+
+</menu>
